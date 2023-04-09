@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC Programmer\\Desktop\\Geek Brains\\Семинары\\Специальности\\Домашнее задание 1 семинара C#\\Домашнее задание 1 семинара C#.csproj",
+      "projectUniqueName": "C:\\Users\\PC Programmer\\Desktop\\Geek Brains\\Семинары\\Специальности\\Домашнее задание 1 семинара C#\\2_zadanie\\Домашнее задание 1 семинара C#.csproj",
       "projectName": "Домашнее задание 1 семинара C#",
-      "projectPath": "C:\\Users\\PC Programmer\\Desktop\\Geek Brains\\Семинары\\Специальности\\Домашнее задание 1 семинара C#\\Домашнее задание 1 семинара C#.csproj",
+      "projectPath": "C:\\Users\\PC Programmer\\Desktop\\Geek Brains\\Семинары\\Специальности\\Домашнее задание 1 семинара C#\\2_zadanie\\Домашнее задание 1 семинара C#.csproj",
       "packagesPath": "C:\\Users\\PC Programmer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC Programmer\\Desktop\\Geek Brains\\Семинары\\Специальности\\Домашнее задание 1 семинара C#\\obj\\",
+      "outputPath": "C:\\Users\\PC Programmer\\Desktop\\Geek Brains\\Семинары\\Специальности\\Домашнее задание 1 семинара C#\\2_zadanie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC Programmer\\AppData\\Roaming\\NuGet\\NuGet.Config"
