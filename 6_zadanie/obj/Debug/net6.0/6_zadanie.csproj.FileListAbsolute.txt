@@ -1,0 +1,15 @@
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 1 семинара C#\6_zadanie\obj\Debug\net6.0\6_zadanie.csproj.AssemblyReference.cache
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 1 семинара C#\6_zadanie\obj\Debug\net6.0\6_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 1 семинара C#\6_zadanie\obj\Debug\net6.0\6_zadanie.AssemblyInfoInputs.cache
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 1 семинара C#\6_zadanie\obj\Debug\net6.0\6_zadanie.AssemblyInfo.cs
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 1 семинара C#\6_zadanie\obj\Debug\net6.0\6_zadanie.csproj.CoreCompileInputs.cache
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 1 семинара C#\6_zadanie\bin\Debug\net6.0\6_zadanie.exe
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 1 семинара C#\6_zadanie\bin\Debug\net6.0\6_zadanie.deps.json
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 1 семинара C#\6_zadanie\bin\Debug\net6.0\6_zadanie.runtimeconfig.json
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 1 семинара C#\6_zadanie\bin\Debug\net6.0\6_zadanie.dll
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 1 семинара C#\6_zadanie\bin\Debug\net6.0\6_zadanie.pdb
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 1 семинара C#\6_zadanie\obj\Debug\net6.0\6_zadanie.dll
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 1 семинара C#\6_zadanie\obj\Debug\net6.0\refint\6_zadanie.dll
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 1 семинара C#\6_zadanie\obj\Debug\net6.0\6_zadanie.pdb
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 1 семинара C#\6_zadanie\obj\Debug\net6.0\6_zadanie.genruntimeconfig.cache
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 1 семинара C#\6_zadanie\obj\Debug\net6.0\ref\6_zadanie.dll
